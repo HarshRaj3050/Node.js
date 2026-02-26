@@ -1,0 +1,3 @@
+fsQ8poYjdSCQFDKQ
+
+mongodb+srv://admin:fsQ8poYjdSCQFDKQ@backend.gfdqfyk.mongodb.net/
